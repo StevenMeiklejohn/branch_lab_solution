@@ -19,3 +19,7 @@ def personal_top_three(scores):
         count = len(scores)
     
     return sorted_scores[0:count]
+
+
+# I have been working on this problem. And it is now ready for merge to master.
+
